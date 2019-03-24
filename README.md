@@ -1,2 +1,2 @@
 # Python
-Scripts em python
+Desenvolvimento de vários scripts usando Python.
